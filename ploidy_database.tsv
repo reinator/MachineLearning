@@ -1,4 +1,4 @@
-#Organism Name	Ploidy	Chromosome number	Size(Mb)	GC%
+organism_name	ploidy	chromosome_number	size	gc
 1_Actinidia chinensis	2	29	653.926	35.6398
 2_Actinidia chinensis var. chinensis	2	29	553.842	35.8
 3_Actinidia eriantha	2	29	690.611	35.93
