@@ -220,7 +220,6 @@ organism_name	ploidy	chromosome_number	size	gc
 219_Zea mays subsp. mays	2	10	2197.97	46.74
 220_Ziziphus jujuba	2	12	437.754	34.15
 221_Ziziphus jujuba	2	12	362.583	32.9636
-222_Ananas comosus	3	25	382.056	38.52
 223_Arachis hypogaea	4	20	2557.07	36.3472
 224_Arachis hypogaea	4	20	2506.71	36.37
 225_Arachis hypogaea	4	20	2551.68	36.45
@@ -249,5 +248,3 @@ organism_name	ploidy	chromosome_number	size	gc
 248_Ipomoea batatas	6	15	837.013	35.87
 249_Triticum aestivum	6	21	15418.8	46.113
 250_Triticum aestivum	6	21	14547.3	46.05
-251_Saccharum spontaneum	8	32	3133.29	44.94
-252_Utricularia gibba	16	4	100.689	41.14
